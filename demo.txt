@@ -2,3 +2,6 @@ test file
 demo_git
 some line
 some line2
+
+some line3
+some line4
