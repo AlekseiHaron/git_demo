@@ -1,2 +1,4 @@
 test file
 demo_git
+some line
+some line2
